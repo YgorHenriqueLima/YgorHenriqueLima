@@ -1,6 +1,6 @@
 ### Olá, meu nome é Ygor Henrique 👋
  
-<p>Tenho 17 anos, sou estudante de programação, e estou cursando Desenvolvimento de sistemas</p>
+<p>estudante de programação e gosto pela tecnologia, estou atualmente cursando Desenvolvimento de sistemas</p>
 
 
 
