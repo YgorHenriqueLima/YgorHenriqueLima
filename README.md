@@ -15,4 +15,4 @@ Sou um estudante apaixonado pela Tecnologia, atualmente estou cursando Técnico 
 
 ![estatisticas](https://github-readme-stats.vercel.app/api?username=YgorHenriqueLima&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorHenriqueLima&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorHenriqueLima&theme=white)](https://github.com/anuraghazra/github-readme-stats)
