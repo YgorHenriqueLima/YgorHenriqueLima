@@ -18,4 +18,4 @@ Sou um estudante apaixonado pela Tecnologia, atualmente estou cursando Técnico 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorHenriqueLima&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Site de acesso aos meus projetos
-Site dos Projetos de desenvolvimento web <a href="https://ygorhenriquelima.github.io/estudos_Desenvolvimento_web/">
+Site dos Projetos de desenvolvimento web <a href="https://ygorhenriquelima.github.io/estudos_Desenvolvimento_web/" target="_blank">clique aqui e acesse o site</a>
