@@ -1,6 +1,6 @@
 ### Olá, meu nome é Ygor Henrique 👋
  
-Sou um estudante apaixonado pela Tecnologia, atualmente estou cursando Técnico em Desenvolvimento de Sistemas e busco constantemente aprimorar minhas habilidades e conhecimentos da programação, aqui compartilho meus projetos desde os mais básicos até os que eu considero desafiadores
+Sou um estudante apaixonado pela Tecnologia, atualmente sou Técnico em Desenvolvimento de Sistemas e busco constantemente aprimorar minhas habilidades e conhecimentos da programação
 
 ## 💻 Tecnologias que estou estudando
 
