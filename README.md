@@ -13,6 +13,7 @@ Sou um estudante apaixonado pela Tecnologia, atualmente sou Técnico em Desenvol
 <br><br>
 
 ![estatisticas](https://github-readme-stats.vercel.app/api?username=YgorHenriqueLima&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorHenriqueLima&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Site de acesso aos meus projetos
